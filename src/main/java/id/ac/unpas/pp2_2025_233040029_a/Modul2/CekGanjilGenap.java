@@ -1,0 +1,19 @@
+package id.ac.unpas.pp2_2025_233040029_a.Modul2;
+/**
+ *
+ * @author tizarhasan
+ */
+
+public class CekGanjilGenap {
+    public static void main(String[] args) {
+        // 1. Buat variabel int bernama angka dan beri nilai (misalnya, 7)
+        int angka = 7;
+
+        // 2 & 3. Gunakan operator modulo (%) dan pernyataan if-else
+        if (angka % 2 == 0) {
+            System.out.println("Angka " + angka + " adalah genap.");
+        } else {
+            System.out.println("Angka " + angka + " adalah ganjil.");
+        }
+    }
+}
