@@ -47,7 +47,6 @@ public class Latihan2 {
             frame.add(btnKonversi);
             frame.add(lblF);
             frame.add(lblHasil);
-
             frame.setLocationRelativeTo(null);
             frame.setVisible(true);
         });
