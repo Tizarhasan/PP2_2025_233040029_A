@@ -3,6 +3,7 @@ id/ac/unpas/pp2_2025_233040029_a/Modul3/ProgramBuku.class
 id/ac/unpas/pp2_2025_233040029_a/Modul6/Latihan1.class
 id/ac/unpas/pp2_2025_233040029_a/Modul2/HitungLuas.class
 id/ac/unpas/pp2_2025_233040029_a/Modul6/ContohBorderLayout.class
+id/ac/unpas/pp2_2025_233040029_a/Modul8/Model/PersegiPanjangModel.class
 id/ac/unpas/pp2_2025_233040029_a/Modul5/Latihan4.class
 id/ac/unpas/pp2_2025_233040029_a/Modul4/Persegi.class
 id/ac/unpas/pp2_2025_233040029_a/Modul7/Tugas/ManajemenNilaiSiswaApp$3.class
@@ -12,7 +13,12 @@ id/ac/unpas/pp2_2025_233040029_a/Modul4/DapatDiwarnai.class
 id/ac/unpas/pp2_2025_233040029_a/Modul4/BangunDatar.class
 id/ac/unpas/pp2_2025_233040029_a/Modul5/Latihan1$1.class
 id/ac/unpas/pp2_2025_233040029_a/Modul5/Latihan1.class
+id/ac/unpas/pp2_2025_233040029_a/Modul8/Main.class
+id/ac/unpas/pp2_2025_233040029_a/Modul8/View/PersegiPanjangView.class
 id/ac/unpas/pp2_2025_233040029_a/Modul7/Tugas/ManajemenNilaiSiswaApp$1.class
+id/ac/unpas/pp2_2025_233040029_a/Modul8/Controller/PersegiPanjangController$HitungListener.class
+id/ac/unpas/pp2_2025_233040029_a/Modul8/Controller/PersegiPanjangController$HitungKelilingListener.class
+id/ac/unpas/pp2_2025_233040029_a/Modul8/Controller/PersegiPanjangController.class
 id/ac/unpas/pp2_2025_233040029_a/Modul4/Kendaraan.class
 id/ac/unpas/pp2_2025_233040029_a/Modul4/Latihan1.class
 id/ac/unpas/pp2_2025_233040029_a/Modul6/ContohActionListener.class
@@ -27,6 +33,7 @@ id/ac/unpas/pp2_2025_233040029_a/Modul6/ContohMouseListener.class
 id/ac/unpas/pp2_2025_233040029_a/Modul7/Tugas/ManajemenNilaiSiswaApp.class
 id/ac/unpas/pp2_2025_233040029_a/Modul6/Latihan2.class
 id/ac/unpas/pp2_2025_233040029_a/Modul3/Siswa.class
+id/ac/unpas/pp2_2025_233040029_a/Modul8/Controller/PersegiPanjangController$ResetListener.class
 id/ac/unpas/pp2_2025_233040029_a/Modul3/DataDanVariabel.class
 id/ac/unpas/pp2_2025_233040029_a/Modul5/Latihan2$1.class
 id/ac/unpas/pp2_2025_233040029_a/Modul7/Tugas/ManajemenNilaiSiswaApp$2.class

@@ -55,19 +55,19 @@ public class ManajemenNilaiSiswaApp extends JFrame {
         panel.add(new JLabel(""));
         JButton btnSimpan = new JButton("Simpan Data");
         panel.add(btnSimpan);
-
-        // Tombol Reset (TUGAS)
-        panel.add(new JLabel(""));
-        JButton btnReset = new JButton("Reset Input");
-        panel.add(btnReset);
-
-        // Event tombol simpan
+        
+                // Event tombol simpan
         btnSimpan.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 prosesSimpan();
             }
         });
+
+        // Tombol Reset (TUGAS)
+        panel.add(new JLabel(""));
+        JButton btnReset = new JButton("Reset Input");
+        panel.add(btnReset);
 
         // Event tombol reset
         btnReset.addActionListener(new ActionListener() {
